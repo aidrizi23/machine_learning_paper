@@ -1,0 +1,5 @@
+Model,Accuracy (%)
+Logistic Regression,100.0
+Decision Tree,100.0
+Random Forest,100.0
+SVM,100.0
